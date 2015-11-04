@@ -1,0 +1,9 @@
+xstream.alias("xml", newsMessage.getClass());
+xstream.alias("item", new NewsItem().getClass());
+		
+		
+
+本地：	ngrok -config ngrok.cfg -subdomain linwei 8080
+		http://linwei.tunnel.mobi/Wechat/login.do 
+		
+		http://lwt2015.duapp.com/Wechat/login.do
